@@ -1,2 +1,5 @@
-# Hello-App
-Hello App – Simple Java Hello World Application for Learning Git and GitFlow
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
